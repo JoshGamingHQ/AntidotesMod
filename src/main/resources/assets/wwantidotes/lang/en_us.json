@@ -1,0 +1,29 @@
+{
+    "item.wwantidotes.warped_wart": "Warped Wart",
+    "item.wwantidotes.plastic_lump": "Plastic Lump",
+
+    "item.wwantidotes.dull_antidote": "Dull Antidote",
+    "item.wwantidotes.slowness_antidote": "Slowness Antidote",
+    "item.wwantidotes.mining_fatigue_antidote": "Mining Fatigue Antidote",
+    "item.wwantidotes.nausea_antidote": "Nausea Antidote",
+    "item.wwantidotes.blindness_antidote": "Blindness Antidote",
+    "item.wwantidotes.hunger_antidote": "Hunger Antidote",
+    "item.wwantidotes.weakness_antidote": "Weakness Antidote",
+    "item.wwantidotes.poison_antidote": "Poison Antidote",
+    "item.wwantidotes.wither_antidote": "Wither Antidote",
+    "item.wwantidotes.bad_omen_antidote": "Bad Omen Antidote",
+    "item.wwantidotes.darkness_antidote": "Darkness Antidote",
+
+    "item.wwantidotes.blank_line.desc": " ",
+    "item.wwantidotes.antidote_action.desc": "When Applied:",
+    "item.wwantidotes.slowness_antidote.desc": "Removes Slowness",
+    "item.wwantidotes.mining_fatigue_antidote.desc": "Removes Mining Fatigue",
+    "item.wwantidotes.nausea_antidote.desc": "Removes Nausea",
+    "item.wwantidotes.blindness_antidote.desc": "Removes Blindness",
+    "item.wwantidotes.hunger_antidote.desc": "Removes Hunger",
+    "item.wwantidotes.weakness_antidote.desc": "Removes Weakness",
+    "item.wwantidotes.poison_antidote.desc": "Removes Poison",
+    "item.wwantidotes.wither_antidote.desc": "Removes Wither",
+    "item.wwantidotes.bad_omen_antidote.desc": "Removes Bad Omen",
+    "item.wwantidotes.darkness_antidote.desc": "Removes Darkness"
+}

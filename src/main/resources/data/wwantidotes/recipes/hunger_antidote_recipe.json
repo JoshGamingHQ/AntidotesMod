@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "PPP",
+		"PIP",
+		"PPP"
+    ],
+    "key": {
+        "P": {
+            "item": "wwantidotes:dull_antidote"
+        },
+        "I": {
+            "tag": "wwantidotes:meat_items"
+        }
+    },
+    "result": {
+        "item": "wwantidotes:hunger_antidote",
+        "count": 8
+    }
+}

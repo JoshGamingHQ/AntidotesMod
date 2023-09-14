@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "wwantidotes:antidotes"
+  },
+  "result": "wwantidotes:plastic_lump",
+  "cookingtime": 200
+}

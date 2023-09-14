@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "PPP",
+		"PIP",
+		"PPP"
+    ],
+    "key": {
+        "P": {
+            "item": "wwantidotes:dull_antidote"
+        },
+        "I": {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result": {
+        "item": "wwantidotes:weakness_antidote",
+        "count": 8
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "PPP",
+		"PIP",
+		"PPP"
+    ],
+    "key": {
+        "P": {
+            "item": "wwantidotes:dull_antidote"
+        },
+        "I": {
+            "item": "minecraft:sugar"
+        }
+    },
+    "result": {
+        "item": "wwantidotes:slowness_antidote",
+        "count": 8
+    }
+}

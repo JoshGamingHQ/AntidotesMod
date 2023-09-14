@@ -1,0 +1,15 @@
+{
+	"values": [
+	  "wwantidotes:dull_antidote",
+	  "wwantidotes:bad_omen_antidote",
+	  "wwantidotes:blindness_antidote",
+	  "wwantidotes:darkness_antidote",
+	  "wwantidotes:hunger_antidote",
+	  "wwantidotes:mining_fatigue_antidote",
+	  "wwantidotes:nausea_antidote",
+	  "wwantidotes:poison_antidote",
+	  "wwantidotes:slowness_antidote",
+	  "wwantidotes:weakness_antidote",
+	  "wwantidotes:wither_antidote"
+	]
+  }

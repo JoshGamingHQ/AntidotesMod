@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        " R ",
+        "RNR",
+        " R "
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:warped_roots"
+        },
+        "N": {
+            "item": "minecraft:nether_wart"
+        }
+    },
+    "result": {
+        "item": "wwantidotes:warped_wart",
+        "count": 1
+    }
+}

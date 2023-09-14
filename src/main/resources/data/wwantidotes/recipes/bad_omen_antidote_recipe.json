@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "PPP",
+		"PIP",
+		"PPP"
+    ],
+    "key": {
+        "P": {
+            "item": "wwantidotes:dull_antidote"
+        },
+        "I": {
+            "item": "minecraft:emerald"
+        }
+    },
+    "result": {
+        "item": "wwantidotes:bad_omen_antidote",
+        "count": 8
+    }
+}

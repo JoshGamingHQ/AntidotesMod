@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "PPP",
+		"PIP",
+		"PPP"
+    ],
+    "key": {
+        "P": {
+            "item": "wwantidotes:dull_antidote"
+        },
+        "I": {
+            "item": "minecraft:echo_shard"
+        }
+    },
+    "result": {
+        "item": "wwantidotes:darkness_antidote",
+        "count": 8
+    }
+}

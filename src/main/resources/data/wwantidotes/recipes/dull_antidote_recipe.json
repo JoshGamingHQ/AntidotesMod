@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "PWP"
+    ],
+    "key": {
+        "P": {
+            "item": "wwantidotes:plastic_lump"
+        },
+        "W": {
+            "item": "wwantidotes:warped_wart"
+        }
+    },
+    "result": {
+        "item": "wwantidotes:dull_antidote",
+        "count": 1
+    }
+}
